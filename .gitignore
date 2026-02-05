@@ -1,0 +1,40 @@
+# Build artifacts
+bin/
+obj/
+.vs/
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Reports and logs
+reports/
+*.log
+*.htm
+*.html
+
+# IDE files
+*.user
+*.suo
+*.vc.db-shm.*
+*.vc.db-shm.*
+*.vc.vc.*
+*.db-shm
+*.db-wal.*
+*.vcxproj.user
+
+# Setup scripts
+*.bat
+*.cmd
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
